@@ -1,0 +1,20 @@
+{
+  "name": "telegram-spotify-bot",
+  "version": "1.0.0",
+  "description": "Telegram bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BoostFlame/telegram-spotify-bot.git"
+  },
+  "author": "Will",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BoostFlame/telegram-spotify-bot/issues"
+  },
+  "homepage": "https://github.com/BoostFlame/telegram-spotify-bot#readme"
+}
